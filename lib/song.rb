@@ -29,6 +29,7 @@ class Song
  
  def self.genre_count   
    genre_count = hash.new(0)
+   
    genre_count
  end
  
