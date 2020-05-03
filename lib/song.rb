@@ -11,7 +11,7 @@ class Song
     @name = song_name
     @artist = artist 
     @genre = genre
-    @@artists = artists
+    @@artists = artist
   end 
   
   
